@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid black;
+}
+body{
+    background-image: url(https://m.media-amazon.com/images/I/81vVB29XEpL._AC_UF1000,1000_QL80_.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
